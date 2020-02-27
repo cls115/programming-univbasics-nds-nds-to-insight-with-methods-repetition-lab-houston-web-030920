@@ -30,3 +30,4 @@ def total_gross(source)
     director_index+=1 
   end
   total
+end
